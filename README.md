@@ -1,4 +1,20 @@
-https://vimeo.com/353611491
+*deprecated*
+## FOR AN UPDATED SERVER WORK SEE BELOW
+
+
+## [NODE](https://github.com/Kirbyasdf/NODE-2020)
+## [Serverless](https://github.com/Kirbyasdf/netlify-react-lambda-NODE-boilerplate)
+## [DENO](https://github.com/Kirbyasdf/deno-1.2-mvc-auth-jwt-boilerplate)
+## [NESTJS](https://github.com/Kirbyasdf/nestjs-crud-auth)
+
+
+
+[VIDEO DEMO](https://vimeo.com/353611491)
+
+[Front-End](https://github.com/Kirbyasdf/carpe_diem_front)
+
+
+
 
 
       "Carpe Diem is, ironically, a fire and forget web App. 
